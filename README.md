@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Content
 
-test test test
-
-MORE TEXT
+Content to go here
